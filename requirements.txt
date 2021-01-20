@@ -1,0 +1,4 @@
+quandl
+pandas
+matplotlib
+scikit-learn
